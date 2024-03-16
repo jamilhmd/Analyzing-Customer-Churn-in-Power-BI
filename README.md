@@ -1,4 +1,4 @@
-Databel Telecom Churn Analysis in Power BI
+## Databel Telecom Churn Analysis in Power BI
 This Power BI project delves into the churn data of Databel, a fictional telecom company,
 to uncover insights into customer attrition rates. Through meticulous data analysis and visualization, 
 we aim to identify key factors contributing to customer churn and propose actionable strategies to mitigate it. 
